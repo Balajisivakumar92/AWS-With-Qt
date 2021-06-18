@@ -1,5 +1,9 @@
+## About Complied File.
+-> Refer [https://youtu.be/pXihGp-6V6I]
+-> Windows 64bit
+-> MSVC2017 64bit
 
-## Note
+## Other Info
 1. Here there will be only compiled files for debug and release
 2. If you need source files of AWS SDK CPP, Refer [1], [2]
 
