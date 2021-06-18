@@ -1,0 +1,10 @@
+includedir=E:/SoftwareTeam/SurgView/EXTERNAL_LIBRARY/AWS_Sdk/aws-sdk-cpp-master/install/release/include
+libdir=E:/SoftwareTeam/SurgView/EXTERNAL_LIBRARY/AWS_Sdk/aws-sdk-cpp-master/install/release/lib
+
+Name: aws-cpp-sdk-transfer
+Description: 
+Version: 1.8.57
+Cflags: -I${includedir} 
+Libs: -L${libdir} -laws-cpp-sdk-transfer 
+Libs.private: 
+Requires:  aws-cpp-sdk-s3 aws-cpp-sdk-core
