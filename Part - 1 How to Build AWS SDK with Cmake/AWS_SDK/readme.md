@@ -1,7 +1,7 @@
 ## About Complied File.
--> Refer [https://youtu.be/pXihGp-6V6I]
--> Windows 64bit
--> MSVC2017 64bit
+1. Refer [https://youtu.be/pXihGp-6V6I]
+2. Windows 64bit
+3. MSVC2017 64bit
 
 ## Other Info
 1. Here there will be only compiled files for debug and release
